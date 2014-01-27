@@ -1,0 +1,7 @@
+colorscheme ir_black
+set nospell
+set guifont=Tewi\ 9
+Bundle "https://github.com/chrisbra/SudoEdit.vim.git"
+imap <C-k> <Plug>(neosnippet_expand_or_jump)
+smap <C-k> <Plug>(neosnippet_expand_or_jump)
+
